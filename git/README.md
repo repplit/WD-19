@@ -1,4 +1,4 @@
-#Основные констольные команды Git
+# Основные констольные команды Git
 
 *   [Общее](https://github.com/nicothin/web-development/tree/master/git#Общее)
 *   [Консольные команды](https://github.com/nicothin/web-development/tree/master/git#Консольные-команды)
